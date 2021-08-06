@@ -7,4 +7,4 @@ You may ask why not use a DE? well I was perfectly using Cinnamon on Linux Mint.
 IDK much about xmonad and window managers. I also appologize if I use wrong terms. 
 I created this configuration file using code from the default xmonad.hs, using Derek Taylor's or DT's xmonad config and some parts of other people's code from the internet, from github also, etc. etc.
 Hope, one of you enjoy my config which is not entirely mine, TBH, I have told, and Help me make it Better.
-# Note for me: I will Polish this repository with time.
+*Note for me: I will Polish this repository with time.

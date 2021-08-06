@@ -8,3 +8,4 @@ IDK much about xmonad and window managers. I also appologize if I use wrong term
 I created this configuration file using code from the default xmonad.hs, using Derek Taylor's or DT's xmonad config and some parts of other people's code from the internet, from github also, etc. etc.
 Hope, one of you enjoy my config which is not entirely mine, TBH, I have told, and Help me make it Better.
 *Note for me: I will Polish this repository with time.
+*Note for others/public/viewers: This is not complete. It can surely give you errors. If you are like me a "noob" and want to play with my config and learn, it's your choice to use this config. idk. BTW, Thanks for reading.
